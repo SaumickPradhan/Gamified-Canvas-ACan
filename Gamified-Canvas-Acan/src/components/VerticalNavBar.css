@@ -1,0 +1,25 @@
+/* VerticalNavbar.css */
+.vertical-navbar {
+    height: 100vh; /* Full height of the viewport */
+    width: 80px; /* Adjust the width as needed */
+    background-color: #333; /* Background color of the navbar */
+    padding-top: 20px; /* Adjust the top padding as needed */
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .vertical-navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .vertical-navbar a:hover {
+    background-color: #555; /* Hover background color */
+  }
+  

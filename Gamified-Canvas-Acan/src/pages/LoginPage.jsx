@@ -1,7 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./LoginPage.css";
 import bearcat from "../assets/bearcatFace.png";
-const LoginPage = () => {
+import { Container, Nav, Navbar } from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
+
+const LoginPage = ({ onUserInput }) => {
+    const history = useNavigate();
   // State for the mascot image URL
   const [mascotImage, setMascotImage] = useState("");
 
@@ -16,17 +20,30 @@ const LoginPage = () => {
     mascot.src = bearcat;
   }, []);
 
+  // Function to handle form submission
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    // Get the value from the input field
+    const userInput = event.target.elements.username.value;
+
+    // Call the callback function from App.jsx
+    onUserInput(userInput);
+
+    history(`/Dashboard/${userInput}`);
+  }
+
   return (
     <div className="user-login-page">
       {/* Add the mascot image above the login form */}
       {mascotImage && <img src={mascotImage} alt="Mascot" className="mascot-image" />}
 
       <h1>User Profile Page</h1>
-      <form className="user-login-form">
-        <input type="text" placeholder="Username" />
+      <form className="user-login-form" onSubmit={handleSubmit}>
+        <input type="text" name="username" placeholder="Username" />
         <input type="password" placeholder="Password" />
         <button type="submit">Log In</button>
-      </form>
+        </form>
     </div>
   );
 };
