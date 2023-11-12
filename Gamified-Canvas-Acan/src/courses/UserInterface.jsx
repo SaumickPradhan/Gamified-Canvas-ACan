@@ -6,9 +6,9 @@ import Zoom from "../components/Zoom";
 
 const UserInterface = () => {
   return (
-      <div style={{ display: "flex" }}>
+      // <div style={{ display: "flex" }}>
         <VerticalNavBar />
-      </div>
+      // </div>
   );
 };
 

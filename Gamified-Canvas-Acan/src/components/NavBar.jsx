@@ -31,7 +31,8 @@ const NavBar = () => {
             <Nav.Link href="/Dashboard/${userInput}"> <img src={dashboard} width="50" height="50"/></Nav.Link>
             {/* <Nav.Link href="/dashboard"><img src={dashboard} width="50" height="50"/></Nav.Link> */}
             <Nav.Link href="/announcements"><img src={announcements} width="50" height="50"/></Nav.Link>
-            <Nav.Link href="/todolist"><img src={todolist} width="50"height="50" /></Nav.Link>
+            <Nav.Link href="/ToDoList"><img src={todolist} width="50"height="50" /></Nav.Link>
+            
           </Nav>
       </Container>
     </Navbar>
