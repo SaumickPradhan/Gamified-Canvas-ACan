@@ -4,6 +4,7 @@ import bearcat from "../assets/bearcatFace.png";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 
+
 const LoginPage = ({ onUserInput }) => {
     const history = useNavigate();
   // State for the mascot image URL

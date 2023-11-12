@@ -1,13 +1,5 @@
-
 .dashboard-container {
     display: flex;
-    margin-top:20px;
-    /* margin-top: 90px; */
-}
-
-.main-cont h1 {
-    margin-top:20px;
-    /* margin-top: 160px; */
 }
 
 .points-component {
@@ -79,8 +71,9 @@
 }
 
 .progress-number {
-    margin-right: 10px;
+    margin-right: 10px; 
     font-weight: bold;
+ 
 }
 
 .progress {
