@@ -47,6 +47,7 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    width:380px;
 }
 
 .course-button:hover {

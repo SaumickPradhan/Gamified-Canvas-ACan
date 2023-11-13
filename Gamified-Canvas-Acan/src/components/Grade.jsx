@@ -2,6 +2,7 @@
 
 import React from 'react';
 import './Grade.css';
+import VerticalNavBar from './VerticalNavBar';
 
 const Grades = () => {
   // Sample data for assignments, quizzes, and exams
@@ -22,6 +23,7 @@ const Grades = () => {
 
   // Calculate cumulative weights for each category
   const calculateCumulativeWeights = (items) => {
+
     const cumulativeWeights = items.reduce((acc, item) => {
       if (acc[item.category]) {
         acc[item.category] += item.weight;
@@ -58,6 +60,8 @@ const Grades = () => {
     (totalAssignmentGrade * 0.3 + totalQuizGrade * 0.3 + totalExamGrade * 0.4);
 
   return (
+    <div>
+       < VerticalNavBar/>
     <div className="grade-book">
       <h1>Canvas GradeBook</h1>
 
@@ -140,6 +144,7 @@ const Grades = () => {
         <p>Exams: {totalExamGrade.toFixed(2)}%</p>
         <p>Overall Total Grade: {overallTotalGrade.toFixed(2)}%</p>
       </div>
+    </div>
     </div>
   );
 };

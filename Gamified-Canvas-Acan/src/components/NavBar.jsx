@@ -28,7 +28,7 @@ const NavBar = () => {
         </Navbar.Brand>
         <p className="brand-header">Alterna-Canvas</p>
           <Nav>
-            <Nav.Link href="/Dashboard/${userInput}"> <img src={dashboard} width="50" height="50"/></Nav.Link>
+            <Nav.Link href="/Dashboard/:userInput"> <img src={dashboard} width="50" height="50"/></Nav.Link>
             {/* <Nav.Link href="/dashboard"><img src={dashboard} width="50" height="50"/></Nav.Link> */}
             <Nav.Link href="/announcements"><img src={announcements} width="50" height="50"/></Nav.Link>
             <Nav.Link href="/ToDoList"><img src={todolist} width="50"height="50" /></Nav.Link>

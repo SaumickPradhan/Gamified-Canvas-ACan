@@ -2,10 +2,13 @@
 
 import React from 'react';
 import './Syllabus.css';
+import VerticalNavBar from './VerticalNavBar'
 
 const Syllabus = () => {
   return (
+    <div> < VerticalNavBar/>
     <div className="gamified-syllabus">
+      
       <header>
         <h1>🎮 Welcome to UI Design Adventure! 🚀</h1>
         <p>Embark on a Gamified Journey with Dr. Jillian Aurisano</p>
@@ -126,6 +129,7 @@ const Syllabus = () => {
       <footer>
         <p>🏆 Level up and conquer the UI Design Adventure! 🚀</p>
       </footer>
+    </div>
     </div>
   );
 };

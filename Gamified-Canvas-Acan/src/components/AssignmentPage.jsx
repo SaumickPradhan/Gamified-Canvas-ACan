@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import "./AssignmentPage.css";
 import Popup from "./Popup"; // Update the path accordingly
+import VerticalNavBar from "./VerticalNavBar";
 
 const AssignmentPage = () => {
   const [selectedCourse, setSelectedCourse] = useState("");
@@ -121,7 +122,10 @@ const AssignmentPage = () => {
   };
 
   return (
+    <div>
+      < VerticalNavBar />
     <div className="assignment-page">
+  
       <h1 className="assignment-heading">Assignment Submission</h1>
       <div className="acan-points-container">
         <p>Your ACan Points: {acanPoints}</p>
@@ -146,6 +150,7 @@ const AssignmentPage = () => {
             ))}
           </select>
         </div>
+        
       )}
       {selectedAssignment && (
         <div className="policies-container">
@@ -199,6 +204,7 @@ const AssignmentPage = () => {
           onClose={handlePopupClose}
         />
       )}
+    </div>
     </div>
   );
 };

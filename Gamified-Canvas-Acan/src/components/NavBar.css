@@ -1,13 +1,16 @@
-/* .navbar {
+.navbar {
     position: fixed;
     left: 0;
     right:0;
+    height:160px;
   }
-   */
+  
   body {
     width: 100%;
   
   }
+
+
   
   .brand-header {
       font-size: 70px;

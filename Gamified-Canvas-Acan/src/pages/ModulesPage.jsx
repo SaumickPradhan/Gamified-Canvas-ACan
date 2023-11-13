@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import "./ModulesPage.css";
 import Popup from "../components/Popup"; // Import the Popup component
+import VerticalNavBar from "../components/VerticalNavBar";
 
 const ModulesPage = () => {
   const [selectedWeek, setSelectedWeek] = useState(null);
@@ -149,7 +150,10 @@ const ModulesPage = () => {
   };  
 
   return (
+    <div>
+      <VerticalNavBar/> 
     <div className="modules-page">
+  
       <h1 className="modules-heading">Modules</h1>
       <div className="button-container" style={{ margin: "15px" }}>
         <button onClick={expandAll} style={{ marginRight: "10px" }}>Expand All</button>
@@ -190,10 +194,12 @@ const ModulesPage = () => {
               ))}
             </div>
           </details>
+          
         ))}
         {/* Custom pop-up */}
         {isPopupOpen && <Popup message={popupMessage} onClose={closePopup} />}
       </div>
+    </div>
     </div>
   );
 };

@@ -25,7 +25,10 @@ const Zoom = () => {
   };
 
   return (
+    <div>
+       < VerticalNavBar/>
     <div className="zoom-lectures">
+
       <h1>Zoom Lectures</h1>
       
       <div className="total-points">
@@ -59,6 +62,7 @@ const Zoom = () => {
           </tbody>
         </table>
       </div>
+    </div>
     </div>
   );
 };

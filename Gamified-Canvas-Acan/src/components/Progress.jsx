@@ -37,7 +37,7 @@ const Progress = () => {
 
   return (
     <div className="container">
-      <h1>Gamified Progress</h1>
+      <h1>User Interface Progress</h1>
       <p>ACan Points: {gamifiedProgressData.xp}</p>
       <p>Level: {gamifiedProgressData.level}</p>
 

@@ -1,25 +1,18 @@
-/* VerticalNavBar.css */
+.nav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
 
-.vertical-navbar {
-  background-color: #333;
-  color: white;
-  padding: 20px;
-  width: 200px;
-  position: fixed;
+.nav-item {
+  margin-right: 10px;
 }
 
 .nav-link {
-  color: white;
   text-decoration: none;
-  padding: 8px;
-  border-bottom: 1px solid #555;
-  transition: background-color 0.3s ease;
+  color: #000; /* Set your desired text color */
 }
 
 .nav-link:hover {
-  background-color: #555;
+  color: #007bff; /* Set your desired hover color */
 }
-
-/* .nav-link.active {
-  background-color: #555;
-} */

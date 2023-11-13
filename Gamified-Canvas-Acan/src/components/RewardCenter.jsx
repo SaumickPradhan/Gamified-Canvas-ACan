@@ -1,5 +1,6 @@
 import React from 'react';
 import './RewardCenter.css';
+import VerticalNavBar from './VerticalNavBar';
 
 const RewardCenter = () => {
   // Sample transactions data
@@ -15,7 +16,9 @@ const RewardCenter = () => {
   const totalPoints = transactions.reduce((total, transaction) => total + transaction.points, 0);
 
   return (
+    <div> < VerticalNavBar/>
     <div className="reward-center">
+
       <h1>Reward Center</h1>
       
       <div className="total-points">
@@ -43,6 +46,7 @@ const RewardCenter = () => {
           </tbody>
         </table>
       </div>
+    </div>
     </div>
   );
 };

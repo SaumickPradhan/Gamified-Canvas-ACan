@@ -5,36 +5,36 @@ import "./VerticalNavBar.css";
 
 const VerticalNavBar = () => {
   return (
-    <ul className="nav flex-column">
+    <ul className="nav">
       <li className="nav-item">
-        <a className="nav-link active" href="/ModulesPage">
+        <Link className="nav-link active" to="/ModulesPage">
           Modules
-        </a>
+        </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/Syllabus">
+        <Link className="nav-link" to="/Syllabus">
           Syllabus
-        </a>
+        </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/GradeBook">
+        <Link className="nav-link" to="/GradeBook">
           Grades
-        </a>
+        </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/AssignmentPage">
+        <Link className="nav-link" to="/AssignmentPage">
           Assignments
-        </a>
+        </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/Zoom">
+        <Link className="nav-link" to="/Zoom">
           Zoom
-        </a>
+        </Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/RewardCenter">
-          Rewards Center
-        </a>
+        <Link className="nav-link" to="/RewardCenter">
+          Rewards
+        </Link>
       </li>
     </ul>
   );
