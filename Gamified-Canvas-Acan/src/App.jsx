@@ -23,6 +23,7 @@ import SyllabusCG from './components/SyllabusCG';
 import SyllabusSD from './components/SyllabusSD';
 import GraphicsProgress from './components/GraphicsProgress';
 import ProjectProgress from './components/ProjectProgress';
+import GamifiedCalendarPage from './components/GamifiedCalendarPage';
 
 function App() {
   // Global variable to store user input
@@ -87,6 +88,7 @@ function App() {
             <Route path="/SyllabusSD" element={<SyllabusSD />} />
             <Route path="/ProjectProgress" element={<ProjectProgress />} />
             <Route path="/GraphicsProgress" element={<GraphicsProgress />} />
+            <Route path="/Calender" element={<GamifiedCalendarPage />} />
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
             </Router>

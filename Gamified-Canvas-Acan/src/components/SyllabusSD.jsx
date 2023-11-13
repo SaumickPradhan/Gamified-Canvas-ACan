@@ -1,8 +1,11 @@
 import React from 'react';
 import './Syllabus.css';
+import VerticalNavBarSD from './VerticalNavBarSD';
 
 const SyllabusSD = () => {
   return (
+    <div>
+      < VerticalNavBarSD/>
     <div className="senior-design-syllabus">
       <header>
         <h1>🎓 Welcome to Senior Design Project! 🚀</h1>
@@ -121,6 +124,7 @@ const SyllabusSD = () => {
       <footer>
         <p>🏆 Level up and conquer the Senior Design Project! 🚀</p>
       </footer>
+    </div>
     </div>
   );
 };

@@ -1,8 +1,11 @@
 import React from 'react';
 import './Syllabus.css';
+import VerticalNavBarCG from './VerticalNavBarCG';
 
 const SyllabusCG = () => {
   return (
+      <div>
+          < VerticalNavBarCG/>
     <div className="computer-graphics-Syllabus">
       <header>
         <h1>🖥️ Welcome to Computer Graphics Exploration! 🎨</h1>
@@ -123,6 +126,7 @@ const SyllabusCG = () => {
       <footer>
         <p>🏆 Level up and conquer the Computer Graphics Exploration! 🎨</p>
       </footer>
+    </div>
     </div>
   );
 };

@@ -6,6 +6,7 @@ import dashboard from '../assets/dashboard.png';
 import announcements from "../assets/announcements.png";
 import todolist from '../assets/todolist.png';
 import { useState } from "react";
+import calender from '../assets/calender.jsx.png';
 const NavBar = () => {
 
   const [userInput, setUserInput] = useState(""); // Global variable to store user input
@@ -32,6 +33,7 @@ const NavBar = () => {
             {/* <Nav.Link href="/dashboard"><img src={dashboard} width="50" height="50"/></Nav.Link> */}
             <Nav.Link href="/announcements"><img src={announcements} width="50" height="50"/></Nav.Link>
             <Nav.Link href="/ToDoList"><img src={todolist} width="50"height="50" /></Nav.Link>
+            <Nav.Link href="/Calender"><img src={calender} width="50"height="50" /></Nav.Link>
             
           </Nav>
       </Container>

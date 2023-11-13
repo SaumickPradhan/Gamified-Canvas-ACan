@@ -93,6 +93,17 @@ import { useParams } from 'react-router-dom';
 import { useNavigate } from "react-router-dom";
 const Dashboard = () => {
 
+    // const reloadPage = () => {
+    //     setTimeout(() => {
+    //         window.location.reload();
+    //     }, 2000); // 2000 milliseconds = 2 seconds
+    // };
+
+    // useEffect(() => {
+    //     // Call the reloadPage function when the component mounts
+    //     reloadPage();
+    // }, []);
+
       const navi = useNavigate();
   const { userInput } = useParams();
 
@@ -186,7 +197,7 @@ const Dashboard = () => {
                     </div>
                 </div>
                 <div className="course-box">
-                    <button className="course-button">
+                    <button className="course-button" onClick={() => handleCourseClickSD()}>
                         Senior Design
                     </button>
                     <div className="progress-container" onClick={() => handleSDprogress()}>
