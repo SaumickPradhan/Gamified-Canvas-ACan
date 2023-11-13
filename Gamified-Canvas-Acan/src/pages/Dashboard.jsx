@@ -87,11 +87,13 @@
 // export default Dashboard;
 
 
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+
 import './Dashboard.css';
 import { useParams } from 'react-router-dom';
 import { useNavigate } from "react-router-dom";
 const Dashboard = () => {
+
 
     // const reloadPage = () => {
     //     setTimeout(() => {
@@ -106,6 +108,10 @@ const Dashboard = () => {
 
       const navi = useNavigate();
   const { userInput } = useParams();
+
+  useEffect(() => {
+    // Fetch data based on userInput
+  }, [userInput]);
 
     const handleCourseClick = (courseName) => {
         // alert(`Clicked on ${courseName}`);

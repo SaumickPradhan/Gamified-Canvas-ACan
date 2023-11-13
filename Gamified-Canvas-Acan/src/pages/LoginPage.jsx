@@ -7,6 +7,8 @@ import { useNavigate } from "react-router-dom";
 
 const LoginPage = ({ onUserInput }) => {
     const history = useNavigate();
+    const [isLogged, setIsLogged] = useState(false);
+
   // State for the mascot image URL
   const [mascotImage, setMascotImage] = useState("");
 
@@ -30,7 +32,9 @@ const LoginPage = ({ onUserInput }) => {
 
     // Call the callback function from App.jsx
     onUserInput(userInput);
+    setIsLogged(true);
 
+    console.log(userInput)
     history(`/Dashboard/${userInput}`);
   }
 

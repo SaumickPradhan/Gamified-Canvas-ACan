@@ -1,9 +1,9 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 import LoginPage from './pages/LoginPage'
 import { Link } from 'react-router-dom';
-import {BrowserRouter as Router, Routes,Route,Navigate,} from "react-router-dom";
+import {BrowserRouter as Router, Routes,Route,Navigate} from "react-router-dom";
 import { Container } from "react-bootstrap";
 import NavBar from './components/NavBar'
 import Dashboard from './pages/Dashboard';
@@ -27,19 +27,27 @@ import GamifiedCalendarPage from './components/GamifiedCalendarPage';
 
 function App() {
   // Global variable to store user input
-  const [userInput, setUserInput] = useState(""); // Global variable to store user input
+  const [userInput, setUserInput] = useState('');
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
-  // Callback function to set user input in App.jsx and trigger navigation
+
   const handleUserInput = (input) => {
     setUserInput(input);
     setIsLoggedIn(true);
   };
 
+  useEffect(() => {
+    // Check if the current location is not the LoginPage
+    if (window.location.pathname !== '/') {
+      setIsLoggedIn(true);
+    }
+  }, [])
   // Callback function to set user input in App.jsx
 
   return (
     <div className="App">
+      {isLoggedIn && window.location.pathname !== '/' && <NavBar />}
+ <Container>
        <Router>
             <Routes>
             <Route
@@ -52,26 +60,6 @@ function App() {
               )
             }
           />
-            {/* <Route path="/dashboard/:userInput" element={<NavBar />} /> */}
-
-            </Routes>
-            </Router>
-            {/* <Router>
-              <Routes>
-              <Route path="/Zoom" element={<VerticalNavBar />} />
-              <Route path="/RewardCenter" element={<VerticalNavBar />} />
-            <Route path="/ModulesPage" element={<VerticalNavBar />} />
-            <Route path="/Syllabus" element={<VerticalNavBar />} />
-            <Route path="/GradeBook" element={<VerticalNavBar />} />
-            <Route path="/AssignmentPage" element={<VerticalNavBar />} />
-
-              </Routes>
-            </Router> */}
-            <NavBar />
-            
-            <Container>
-            <Router>
-            <Routes>
             <Route path="/Dashboard/:userInput" element={<Dashboard  onUserInput={handleUserInput}/>} />
     
             <Route path="/announcements" element={<Announcements />} />
