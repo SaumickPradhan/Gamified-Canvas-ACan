@@ -183,42 +183,7 @@ Likes the idea but is nervous for all non gamers who might be at a disadvantage.
 Not a big gamer at all. Only really ever plays the Sims to relax. Sometimes likes to play Candy Crush. Not familiar with most game systems/conventions. 
 #### To what extent do rewards and penalties in games motivate you? 
 In the games they do play, rewards and penalties are motivating. Gets sad when Sims die, and thinks beating difficult challenges is very rewarding. Thinks it could be good to get more students excited about work. 
-
-### Contenxtual inquiry: 
-
-#### Interviewed, Jenna Lowes is a second year pre-med major, who uses Canvas: 
-
-When collaborating with colleagues, Jenna makes the most of Canvas as her primary platform for interaction. She actively participates in online discussions and group projects with other pre-med students along with sharing her insights. She also regularly participates in peer research groups created in Canvas to foster effective collaboration on complex topics. 
-Some of the features that Jenna uses: 
-Announcements: Jenna uses the Announcements page to keep herself updated on important course information, schedule changes, and significant announcements from instructors. 
-Modules: To access course materials, lecture notes, and assignments in an organized manner, Jenna relies on the modules section. This approach helps Jenna maintain a structured and well-organized approach to her studies. 
-Grades: Jenna frequently checks the grades tab to keep a close eye on her academic progress. This tool allows her to review her grades and receive feedback on her assignments and exams. She also uses the prediction feature in the grades section to ensure that she is getting the grade she deserves. 
-Discussion Boards: Depending on the course, Jenna actively participates in discussion boards to engage with peers and instructors, pose thought-provoking questions, and share her valuable insights. 
-Assignments: Jenna effectively employs the assignments page to submit her coursework and to stay well-informed about due dates and specific assignment requirements. 
-  
-When asked about her preference for the web version or the app version, Jenna replied that she distinctly prefers the desktop version of Canvas for several compelling reasons: 
-  
-Screen size: The desktop version's responsive screen space provides Jenna with an ideal workspace, making it convenient for her to access and organize course materials. She believes this feature is especially useful when multitasking with multiple canvas tabs or scrolling through large PDFs. 
-  
-Efficiency: Jenna thinks it is more efficient to write out long essays and paragraphs on her laptop. Thus, she prefers the web version over the app version. 
-  
-Course Management: Jenna finds that the desktop version streamlines navigation through courses, modules, and assignments. This helps Jenna maintain a well-organized and efficient approach to her studies. 
-  
-While Jenna acknowledges the practicality of the mobile version for quick updates and checking announcements while on the move, she acknowledges its limitations for more involved tasks like in-depth interactions, essay composition, or comprehensive course exploration. Therefore, her go-to choice for substantial tasks on Canvas remains the desktop version. 
  
- 
-#### Interviewed, Dhyey Patel is a fourth-year computer science major, who uses Canvas: 
-Dhyey uses different features on Canvas depending on his needs and preferences. Some of the features he uses the most are: 
- 
-Dashboard: He uses the dashboard to view all of his courses, assignments, announcements, and calendar events.  
-Courses: He accesses all his enrolled courses and their contents, such as modules, quizzes, discussions, grades, and files from here. He also views his course syllabus and outcomes here.  
-Calendar: Dhyey uses this tab to see all upcoming events and deadlines for his courses and personal tasks. He also adds new reminders for events or edits an existing one. 
-Inbox: He uses this to communicate with his instructors and peers. 
-Account: He uses this to manage his personal settings and preferences, such as profile, notifications etc. 
- 
-He uses Canvas for various purposes, such as checking his grades, submitting assignments, participating in discussions, reviewing course materials, and collaborating with others. 
- 
-Dhyey prefers the desktop version of Canvas over the mobile version because he finds it more convenient and comfortable to use a larger screen and a keyboard. He also likes the desktop version because it has more features and functionalities than the mobile version. But he sometimes uses the mobile version when he is on the go or needs to access something quickly from his phone. 
 </details>
 
 <details> 
@@ -378,9 +343,39 @@ We assume that a Smart Desk is equipped with sensors and features that allow it 
   
 <summary><b>Contextual inquiry findings</b></summary>
 
-•	Voice assistant integration
+#### 1.  Interviewed, Jenna Lowes is a second year pre-med major, who uses Canvas: 
 
-•	User data analytics and feedback
+When collaborating with colleagues, Jenna makes the most of Canvas as her primary platform for interaction. She actively participates in online discussions and group projects with other pre-med students along with sharing her insights. She also regularly participates in peer research groups created in Canvas to foster effective collaboration on complex topics. 
+Some of the features that Jenna uses: 
+Announcements: Jenna uses the Announcements page to keep herself updated on important course information, schedule changes, and significant announcements from instructors. 
+Modules: To access course materials, lecture notes, and assignments in an organized manner, Jenna relies on the modules section. This approach helps Jenna maintain a structured and well-organized approach to her studies. 
+Grades: Jenna frequently checks the grades tab to keep a close eye on her academic progress. This tool allows her to review her grades and receive feedback on her assignments and exams. She also uses the prediction feature in the grades section to ensure that she is getting the grade she deserves. 
+Discussion Boards: Depending on the course, Jenna actively participates in discussion boards to engage with peers and instructors, pose thought-provoking questions, and share her valuable insights. 
+Assignments: Jenna effectively employs the assignments page to submit her coursework and to stay well-informed about due dates and specific assignment requirements. 
+  
+When asked about her preference for the web version or the app version, Jenna replied that she distinctly prefers the desktop version of Canvas for several compelling reasons: 
+  
+Screen size: The desktop version's responsive screen space provides Jenna with an ideal workspace, making it convenient for her to access and organize course materials. She believes this feature is especially useful when multitasking with multiple canvas tabs or scrolling through large PDFs. 
+  
+Efficiency: Jenna thinks it is more efficient to write out long essays and paragraphs on her laptop. Thus, she prefers the web version over the app version. 
+  
+Course Management: Jenna finds that the desktop version streamlines navigation through courses, modules, and assignments. This helps Jenna maintain a well-organized and efficient approach to her studies. 
+  
+While Jenna acknowledges the practicality of the mobile version for quick updates and checking announcements while on the move, she acknowledges its limitations for more involved tasks like in-depth interactions, essay composition, or comprehensive course exploration. Therefore, her go-to choice for substantial tasks on Canvas remains the desktop version. 
+ 
+ 
+#### 2. Interviewed, Dhyey Patel is a fourth-year computer science major, who uses Canvas: 
+Dhyey uses different features on Canvas depending on his needs and preferences. Some of the features he uses the most are: 
+ 
+Dashboard: He uses the dashboard to view all of his courses, assignments, announcements, and calendar events.  
+Courses: He accesses all his enrolled courses and their contents, such as modules, quizzes, discussions, grades, and files from here. He also views his course syllabus and outcomes here.  
+Calendar: Dhyey uses this tab to see all upcoming events and deadlines for his courses and personal tasks. He also adds new reminders for events or edits an existing one. 
+Inbox: He uses this to communicate with his instructors and peers. 
+Account: He uses this to manage his personal settings and preferences, such as profile, notifications etc. 
+ 
+He uses Canvas for various purposes, such as checking his grades, submitting assignments, participating in discussions, reviewing course materials, and collaborating with others. 
+ 
+Dhyey prefers the desktop version of Canvas over the mobile version because he finds it more convenient and comfortable to use a larger screen and a keyboard. He also likes the desktop version because it has more features and functionalities than the mobile version. But he sometimes uses the mobile version when he is on the go or needs to access something quickly from his phone.
   
 </details>
 
