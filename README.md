@@ -21,7 +21,6 @@ https://youtu.be/8Fe_6UhcPd0
 <details>
 <summary> <b>Interviews:</b> </summary>
 
-### NACHIKET DIGHE Questions 
 
 Interview 1 (Jenna Lowes, pre-med, sophomore at the University of Cincinnati) 
  
@@ -73,17 +72,7 @@ In terms of motivation, rewards and penalties in games can be a significant fact
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
-### NEHANG PATEL 
- 
-(Interview-1: Aerospace Engineering major first-year student at UC Davis) 
+Interview-3: Aerospace Engineering major first-year student at UC Davis
   
 #### How do you access your assignments and plan to complete them in time? 
 I access my assignments on Canvas by logging into my account and navigating to the specific course where the assignment is located. Usually, the assignments are listed in a dedicated section or under a specific tab. To plan for completing them on time, I usually create a digital calendar on Google, which my university uses predominantly, to keep track of assignment due dates and prioritize them accordingly. The Canvas calendar is useful for this as well! 
@@ -116,8 +105,7 @@ Rewards motivate me to keep playing the game for longer, and it also makes it mu
  
  
  
- 
-(Interview-2: Computer Science major junior at UC) 
+Interview-4: Computer Science major junior at UC 
  
 #### How do you access your assignments and plan to complete them in time?  
 Accessing assignments on Canvas is convenient. I typically log into my Canvas account and navigate to the respective course page. The assignment details, instructions, and due dates are readily available. To ensure I complete assignments on time, I use the Canvas Calendar to track assignment deadlines. This way, I can efficiently manage my time and prioritize tasks. Sometimes, even my friends remind me that an assignment’s due date is coming up, so that is another way I end up completing it on time! I often break down larger assignments into smaller tasks and allocate specific time slots for them. 
@@ -149,10 +137,8 @@ I play games like Subway Surfers, Clash of Clans, Call of Duty, and Ludo, depend
 #### To what extent do rewards and penalties in games motivate you? 
 Rewards and penalties in games can be motivating, especially when they are designed effectively. Earning points or achievements in games can be a satisfying way to track progress. Receiving in-game rewards or achieving high scores can also be a strong incentive to continue playing. Penalties, however, should be fair and not overly punitive, as excessive penalties can be demotivating. Personal preferences and the quality of game design play a significant role in how motivating rewards and penalties are. 
  
- 
- 
-SAM DIENER  
-(Interview-1: Brother, computer science graduate) 
+  
+Interview-5: Brother, computer science graduate 
   
 #### How do you access your assignments and plan to complete them in time? 
 Accesses assignments on Canvas through personal laptop, never mobile version. Has difficulty planning for assignments. Does not like Canvas’s calendar and To-Do system. Uses physical whiteboards as well as personal calendar app to keep up with work. Likes this method due to reminders.  
@@ -175,7 +161,7 @@ Enjoys strategy games like poker and chess. Spends a lot of time in fantastical 
 #### To what extent do rewards and penalties in games motivate you? 
 Definitely a big motivator for him. Even things such as numerical rankings or in-game achievements drive him to play more and harder. Spends lots of time trying to move online chess and smash ranking. Penalties can make him not want to play sometimes. Has quit for times after tough losses. 
  
-(Interview-2: Roommate, Political Science graduate) 
+Interview-6 : Roommate, Political Science graduate 
   
 #### How do you access your assignments and plan to complete them in time? 
 Checks the Canvas app on mobile phone regularly to keep up with assignment dates. Then completes assignments through personal laptop. Does not keep a calendar of upcoming assignments, only checks Canvas and remembers. 
