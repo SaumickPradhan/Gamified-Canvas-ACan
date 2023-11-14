@@ -21,91 +21,237 @@ https://youtu.be/8Fe_6UhcPd0
 <details>
 <summary> <b>Interviews:</b> </summary>
 
-**i.	Resident Advisor Job manager**
+### NACHIKET DIGHE Questions 
 
-**1. How do you currently use your desk at work or home?**
+Interview 1 (Jenna Lowes, pre-med, sophomore at the University of Cincinnati) 
+ 
+#### How do you access your assignments and plan to complete them in time? 
+Jenna utilizes the built-in planning features on Canvas such as the to-do list to manage her workload effectively. She organizes her tasks using those features to complete her work on time. 
+#### How do you motivate yourself to complete your assignments? 
+Jenna stays motivated to complete her assignments by ensuring that she performs a self-care routine every day to de-stress from her heavy workload as a pre-med major.  
+#### How do you ask for help when you are stuck? 
+When Jenna is stuck, she makes use of Canvas's communication tools, such as discussion forums and messaging, to seek assistance from both peers and instructors. 
+#### How do you feel about the assignment submission windows in Canvas? 
+Jenna thinks the assignment submission window on Canvas is easy to navigate, but maybe having a clear feedback window would be useful, especially after an exam. 
+#### Do you like how you are able to submit your exams? 
+Jenna appreciates the flexibility of Canvas's submission windows, especially for exams, but she does not like how sometimes she is unsure if her exam has been submitted. 
+#### What do you think could have been better with the way you submit your assignments? 
+Jenna believes that providing clearer feedback after submitting an assignment would help. 
+#### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors? 
+Canvas offers robust communication channels, making it easy for Jenna to seek help from peers and instructors when needed. 
+#### How do you feel about being incentivized to play games on Canvas for extra credit? 
+Jenna finds the idea of being incentivized to play games for extra credit in the alternate Canvas version motivating, as she feels like she would appreciate an extension on some of her assignments. 
+#### What games do you play to relax from work/exams? 
+Jenna usually plays idle games such as Sims to relax from work. 
+#### To what extent do rewards and penalties in games motivate you? 
+Rewards and penalties in games, especially the opportunity to earn extra credit on Canvas, would effectively motivate Jenna to stay engaged and complete tasks. 
+ 
+ 
+ 
+Interview 2 (Vic Patel, Information Technology, junior at the University of Cincinnati) 
+ 
+#### How do you access your assignments and plan to complete them in time? 
+Vic typically accesses assignments on Canvas by logging in, finding the course page, and checking the assignments tab. He often sets reminders to stay on top of his workload. 
+#### How do you motivate yourself to complete your assignments? 
+Vic motivates himself by breaking assignments into smaller chunks and rewarding himself with breaks or treats after completing portions of the work. 
+#### How do you ask for help when you are stuck? 
+When Vic gets stuck, he asks help either by posting questions on the discussion forum or emailing his instructor. 
+#### How do you feel about the assignment submission windows in Canvas? 
+Vic generally finds the assignment submission windows in Canvas acceptable, as it is flexible. 
+#### Do you like how you are able to submit your exams? 
+Vic appreciates the convenience of submitting exams through Canvas, as it gives him control over his testing environment. 
+#### What do you think could have been better with the way you submit your assignments? 
+Vic believes that improving the clarity of the assignment submission process, particularly for file uploads and multiple attachments. 
+#### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors? 
+Vic feels that Canvas is a valuable platform for seeking help, both from peers and instructors, through discussion boards, emails, and direct messaging. 
+#### How do you feel about being incentivized to play games on Canvas for extra credit? 
+ Vic thinks that incentivizing games on Canvas for extra credit is a fun idea that can motivate students who enjoy gaming. 
+#### What games do you play to relax from work/exams? 
+To relax, Vic enjoys playing games like Minecraft and Among Us, which helps him unwind and take a break from work and exams. 
+#### To what extent do rewards and penalties in games motivate you? 
+In terms of motivation, rewards and penalties in games can be a significant factor for Vic. He finds them very motivating and enjoys the sense of achievement and progress that comes with earning rewards in games. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+### NEHANG PATEL 
+ 
+(Interview-1: Aerospace Engineering major first-year student at UC Davis) 
+  
+#### How do you access your assignments and plan to complete them in time? 
+I access my assignments on Canvas by logging into my account and navigating to the specific course where the assignment is located. Usually, the assignments are listed in a dedicated section or under a specific tab. To plan for completing them on time, I usually create a digital calendar on Google, which my university uses predominantly, to keep track of assignment due dates and prioritize them accordingly. The Canvas calendar is useful for this as well! 
+#### How do you motivate yourself to complete your assignments? 
+Motivation can be a tricky challenge, especially for challenging assignments. I find that breaking down the tasks into smaller, manageable parts helps. Additionally, I try to remind myself of my long-term goals and how completing assignments is essential for my academic success. Sometimes, I join study groups or work with my classmates and friends to stay motivated and accountable.  
+#### How do you ask for help when you are stuck? 
+Canvas provides several ways to ask for help. I can use discussion boards, send messages to instructors or friends, or even attend the TA or instructor office hours. When I'm stuck on a specific assignment, I usually start by posting a question on the discussion board or sending a message to the instructor. If I don't receive a timely response, I reach out to my friends for help. 
+  
+#### How do you feel about the assignment submission windows in Canvas? 
+I find the assignment submission windows in Canvas to be reasonable. They typically provide adequate time for completing and submitting assignments. However, it's important to keep track of these windows, as missing a deadline can result in penalties.  
+  
+####  Do you like how you are able to submit your exams? 
+Submitting exams on Canvas is straightforward. I appreciate the convenience of being able to complete exams digitally and receive instant feedback in some cases. However, it can be stressful, especially for high-stakes exams, as there is often a time limit. The exams with free-response questions especially, are the ones that are the most stressful because I don’t know how the professor or TA will grade it. 
+  
+ 
+#### What do you think could have been better with the way you submit your assignments? 
+One improvement could be providing clearer instructions for assignment submissions on Canvas. Sometimes, the process can be confusing, especially for new students. It would also be helpful if Canvas allowed for multiple file uploads in a more user-friendly manner. I hate having to click the “Add File” button like 10 times for 10 different files. It would have been so much easier to submit my assignments if I could select multiple files in one go!  
+  
+#### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors? 
+I generally feel that Canvas offers several ways to ask for help, both from peers and instructors. The discussion boards and messaging system are useful for reaching out to instructors and classmates. However, the effectiveness of the help received varies based on the responsiveness of instructors and the willingness of peers to assist, which has fortunately been good so far. 
+  
+#### How do you feel about being incentivized to play games on Canvas for extra credit? 
+I think the idea of incentivizing students to play games on Canvas for extra credit is very intriguing. It can be a fun and engaging way to earn additional points. I would definitely be interested in seeing this on my Canvas. It would make the entire process of using Canvas much more fun, in my opinion. I am also intrigued to know how this would be implemented! 
+  
+#### What games do you play to relax from work/exams? 
+I often play casual mobile games to relax, such as puzzle games such as the 2048 game and strategy games like chess. These provide a break from academics and help me unwind after a long day. Sometimes, I also engage in physical activities or sports to de-stress. I also play games like Clash of Clans and Call of Duty, which are a little time-consuming, so I usually play them before bed for like an hour or so. 
+  
+#### To what extent do rewards and penalties in games motivate you? 
+Rewards motivate me to keep playing the game for longer, and it also makes it much more fun to engage in a friendly competition with my friends to see who has the most rewards. Penalties, on the other hand, are quite disheartening, for the lack of a better word. I hate penalties! They are a buzzkill for me to be honest. But they enable me to see what I did wrong, so I can avoid doing that the next time I play the game, which often leads to more rewards! So, yeah, rewards are motivating! 
+ 
+ 
+ 
+ 
+(Interview-2: Computer Science major junior at UC) 
+ 
+#### How do you access your assignments and plan to complete them in time?  
+Accessing assignments on Canvas is convenient. I typically log into my Canvas account and navigate to the respective course page. The assignment details, instructions, and due dates are readily available. To ensure I complete assignments on time, I use the Canvas Calendar to track assignment deadlines. This way, I can efficiently manage my time and prioritize tasks. Sometimes, even my friends remind me that an assignment’s due date is coming up, so that is another way I end up completing it on time! I often break down larger assignments into smaller tasks and allocate specific time slots for them. 
+ 
+#### How do you motivate yourself to complete your assignments?  
+Motivation can be a challenge, especially for complex programming assignments. To stay motivated, I often set personal goals and milestones for each assignment. Breaking the task into smaller, manageable parts makes it less daunting. I find that setting clear goals and focusing on the practical applications of what I'm learning can be highly motivating. Collaborating with my friends on group projects also adds an element of healthy competition and motivation. 
+ 
+#### How do you ask for help when you are stuck?  
+I try to look up the problems online, firstly, on sites like GeeksForGeeks or StackOverflow. If I 	can’t find anything there, I try to ask my friends if they know how to solve the problem. I also 	use the class Discord channel to discuss the problem with my classmates to see if they faced the 	same problem and how they solved it. The last resort is to ask the professor or TA about it. 
+ 
+#### How do you feel about the assignment submission windows in Canvas?  
+I think the assignment submission window on Canvas is good. It mentions everything I need to know about the assignment such as the instructions, due date details, the number of points it’s worth, etc. So, I would say it has sufficient information for me to turn in my assignment on time efficiently. I just wish I could select multiple files in one go! 
+ 
+#### Do you like how you are able to submit your exams?  
+Submitting exams on Canvas is straightforward, but it depends on the exam format. For multiple-choice or short-answer exams, I think Canvas is efficient. However, for coding questions or written exams involving equations and calculations, it could be improved to provide a more user-friendly text editor and ensure compatibility with various programming languages. 
+ 
+#### What do you think could have been better with the way you submit your assignments?  
+While Canvas is effective for assignment submission, it could be enhanced by providing a built-in code editor that supports multiple programming languages. Additionally, a plagiarism checker integrated into the submission process would be beneficial for maintaining academic integrity. Canvas could also improve the assignment submission process by allowing students to submit multiple code files more easily, as I mentioned earlier. This is especially important in computer science, where assignments often involve multiple code components. 
+ 
+#### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors?  
+I think the Discussion Board on Canvas is helpful to some extent for asking questions, but people don’t use it too often, so I usually depend on the class communication channels such as Discord or GroupMe. Or I just email the professor directly, because often they are not aware of the conversation on Discussion Board, or they have disabled it for the course! The discussions on Discord, GroupMe, and (sometimes) Canvas are particularly useful for sharing code snippets and troubleshooting. 
+ 
+#### How do you feel about being incentivized to play games on Canvas for extra credit?  
+Incentivizing games for extra credit is an interesting concept, especially if the games are designed to reinforce course content. It can make learning more engaging. However, the games should be thoughtfully integrated into the curriculum and align with the learning objectives. Playing games for extra credit could also be a source of motivation for people to study more if it involves using concepts learned in class to play it. 
+ 
+#### What games do you play to relax from work/exams?   
+I play games like Subway Surfers, Clash of Clans, Call of Duty, and Ludo, depending on my mood. I just use these games to relax after a busy day, so it’s probably just for a few minutes at the end of the day or after a stressful exam. I also enjoy multiplayer online games for relaxation. 
+ 
+#### To what extent do rewards and penalties in games motivate you? 
+Rewards and penalties in games can be motivating, especially when they are designed effectively. Earning points or achievements in games can be a satisfying way to track progress. Receiving in-game rewards or achieving high scores can also be a strong incentive to continue playing. Penalties, however, should be fair and not overly punitive, as excessive penalties can be demotivating. Personal preferences and the quality of game design play a significant role in how motivating rewards and penalties are. 
+ 
+ 
+ 
+SAM DIENER  
+(Interview-1: Brother, computer science graduate) 
+  
+#### How do you access your assignments and plan to complete them in time? 
+Accesses assignments on Canvas through personal laptop, never mobile version. Has difficulty planning for assignments. Does not like Canvas’s calendar and To-Do system. Uses physical whiteboards as well as personal calendar app to keep up with work. Likes this method due to reminders.  
+#### How do you motivate yourself to complete your assignments? 
+Says he is definitely a procrastinator. Stress is a big motivator. Usually only works ahead if it seems like he will be too busy. Breaks after bits of work help to make work easier. 
+#### How do you ask for help when you are stuck? 
+Doesn’t like how canvas offers help. Usually searches randomly across the course page to find TA/office hours. Usually only searches online for answers or talks to computer scientist father. 
+#### How do you feel about the assignment submission windows in Canvas? 
+Hard deadlines can be stressful when pushing work to the last minute. But it is understandable that some sort of deadline should be in place. Doesn’t feel Canvas does good enough job reminding you of your assignments. 
+#### Do you like how you are able to submit your exams? 
+Depends on how the professor sets up the exam. Has had exams where once a question is submitted, can’t go back. Also doesn’t like exams that don’t show results in any way at end. No problem with honor system and cheating rules. 
+#### What do you think could have been better with the way you submit your assignments? 
+Reminders for assignments when they are due in 24 hours or maybe even more customizable options. Some sort of better way to organize upcoming assignments like a calendar app. 
+#### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors? 
+Getting help through Canvas is ok. Has messaged teachers through messaging system and gotten responses. Seems like open discussion boards aren’t used. Never really messaged students except to form groups. 
+#### How do you feel about being incentivized to play games on Canvas for extra credit? 
+Normally there is no real incentive to get work done early, except for stress relief. Feels this could make him get more enthusiastic about starting and finishing work earlier. Wonders how to make it balanced for everyone. 
+#### What games do you play to relax from work/exams? 
+Enjoys strategy games like poker and chess. Spends a lot of time in fantastical games like Elden Ring. Really likes competitive games like Super Smash Bros 
+#### To what extent do rewards and penalties in games motivate you? 
+Definitely a big motivator for him. Even things such as numerical rankings or in-game achievements drive him to play more and harder. Spends lots of time trying to move online chess and smash ranking. Penalties can make him not want to play sometimes. Has quit for times after tough losses. 
+ 
+(Interview-2: Roommate, Political Science graduate) 
+  
+#### How do you access your assignments and plan to complete them in time? 
+Checks the Canvas app on mobile phone regularly to keep up with assignment dates. Then completes assignments through personal laptop. Does not keep a calendar of upcoming assignments, only checks Canvas and remembers. 
+#### How do you motivate yourself to complete your assignments? 
+Has a hard time getting motivated but will usually stay on task once started. Likes to go to Coffee shop where they have nothing to do but work. Public can get loud and distracting, sometimes prefers quiet. 
+#### How do you ask for help when you are stuck? 
+Likes to check who is in class with them on Canvas to reach out about assignments/help. Same goes for contacting the professor, has reached out to them through Canvas. 
+#### How do you feel about the assignment submission windows in Canvas? 
+Usually not a problem for them. Sometimes an assignment or two slips through the cracks given how they keep track of assignments, but they get why deadlines are needed.  
+#### Do you like how you are able to submit your exams? 
+Does not like Canvas for exams. Gets very nervous for exams anyways, computer problems exasperate that. Only thing they like is typing essays for exams on Canvas instead of writing by hand.  
+#### What do you think could have been better with the way you submit your assignments? 
+Does not like assignment submission on Canvas. Is not a computer wiz and struggles mightily with converting file types for submissions. Usually ends up taking a while to do or needing help.  
+#### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors? 
+Reached out to peers a good amount. Whether it is for access to class group messaging boards, or just help with assignments, they like group work. Never really reaches out to teacher through Canvas, only email.  
+#### How do you feel about being incentivized to play games on Canvas for extra credit? 
+Likes the idea but is nervous for all non gamers who might be at a disadvantage. Feels not every student might be able to make the most of this system. Thinks giving out more chances for extra credit is good.  
+#### What games do you play to relax from work/exams? 
+Not a big gamer at all. Only really ever plays the Sims to relax. Sometimes likes to play Candy Crush. Not familiar with most game systems/conventions. 
+#### To what extent do rewards and penalties in games motivate you? 
+In the games they do play, rewards and penalties are motivating. Gets sad when Sims die, and thinks beating difficult challenges is very rewarding. Thinks it could be good to get more students excited about work. 
 
-**Answer:** I use my desk for both work and personal tasks. It's mainly a workspace where I spend a significant portion of my day.
+### Contenxtual inquiry: 
 
-**2.	What challenges or discomforts do you face while working at your desk?**
+#### Interviewed, Jenna Lowes is a second year pre-med major, who uses Canvas: 
 
-**Answer:** I often experience discomfort in my back and neck due to sitting for long hours. Also, adjusting the desk height manually is a hassle.
-
-**3.	What features would you expect from a Smart Desk to improve your productivity and well-being?**
-
-**Answer:** I would like the Smart Desk to automatically adjust its height to encourage better posture. It should also have integrated wireless charging and cable management for a clutter-free workspace.
-
-**4.	How do you envision the Smart Desk fitting into your daily routine?**
-
-**Answer:** Ideally, it should sync with my calendar and adjust the desk height for different tasks automatically. It should also provide reminders for posture and breaks.
-
-**5.	What role do you think the user interface should play in controlling the Smart Desk?**
-
-**Answer:** The user interface should be intuitive and easy to use, with both a mobile app and voice control. It should allow me to customize desk settings based on my preferences.
-
-
-**ii.	CS Student friend**
-
-**1.	Can you describe your typical workday and how you use your desk in your profession?**
-
-**Answer:** My workday varies, but I spend a lot of time designing on my computer. Sometimes I sit, sometimes I stand while working on creative projects.
-
-**2.	Are there any specific health concerns or ergonomic needs you have while working at your desk?**
-
-**Answer:** Maintaining good posture is crucial, but it's easy to forget when I'm engrossed in my work. Also, I often switch between sitting and standing.
-
-**3.	How would a Smart Desk potentially enhance your creative work and productivity?**
-
-**Answer:** A Smart Desk could help me switch between sitting and standing more easily and remind me to change my posture. It should also integrate with my design software for quick shortcuts.
-
-**4.	What types of customization or personalization options would you like to see in the Smart Desk's interface?**
-
-**Answer:** Customization is essential. I'd like to set different height presets for different tasks and have the option to sync it with my calendar.
-
-**5.	Do you prefer a mobile app or physical controls for managing the Smart Desk?**
-
-**Answer:** I prefer a mobile app for convenience, but physical controls should also be available for quick adjustments.
-
-
-**iii. Work from Home uncle**
-
-**1.	How do you use your desk in your home-based business, and how does it affect your daily routine?**
-
-**Answer:** My desk is the center of my business operations. I manage everything from there, including calls, paperwork, and meetings.
-
-**2.	What challenges do you face related to workspace organization, productivity, or health?**
-
-**Answer:** I struggle with maintaining an organized workspace and keeping track of time. I also worry about sitting for extended periods.
-
-**3.	 How do you envision a Smart Desk contributing to your work efficiency and well-being?**
-
-**Answer:** A Smart Desk should help me organize my workspace with built-in storage solutions. It should adjust its height automatically and integrate with my calendar.
-
-**4.	What data or analytics would you like the Smart Desk to provide, and how should the interface present this information?**
-
-**Answer:** A Smart Desk should help me organize my workspace with built-in storage solutions. It should adjust its height automatically and integrate with my calendar.
-
-**5.	Do you have any concerns about privacy or security regarding the Smart Desk's data collection?**
-
-**Answer:** I'm concerned about data privacy, so the Smart Desk should have robust security features. I should have control over what data is collected and how it's used.
-![image](https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/1c776b6d-5986-480b-80ed-b87fb52e06d1)
-
+When collaborating with colleagues, Jenna makes the most of Canvas as her primary platform for interaction. She actively participates in online discussions and group projects with other pre-med students along with sharing her insights. She also regularly participates in peer research groups created in Canvas to foster effective collaboration on complex topics. 
+Some of the features that Jenna uses: 
+Announcements: Jenna uses the Announcements page to keep herself updated on important course information, schedule changes, and significant announcements from instructors. 
+Modules: To access course materials, lecture notes, and assignments in an organized manner, Jenna relies on the modules section. This approach helps Jenna maintain a structured and well-organized approach to her studies. 
+Grades: Jenna frequently checks the grades tab to keep a close eye on her academic progress. This tool allows her to review her grades and receive feedback on her assignments and exams. She also uses the prediction feature in the grades section to ensure that she is getting the grade she deserves. 
+Discussion Boards: Depending on the course, Jenna actively participates in discussion boards to engage with peers and instructors, pose thought-provoking questions, and share her valuable insights. 
+Assignments: Jenna effectively employs the assignments page to submit her coursework and to stay well-informed about due dates and specific assignment requirements. 
+  
+When asked about her preference for the web version or the app version, Jenna replied that she distinctly prefers the desktop version of Canvas for several compelling reasons: 
+  
+Screen size: The desktop version's responsive screen space provides Jenna with an ideal workspace, making it convenient for her to access and organize course materials. She believes this feature is especially useful when multitasking with multiple canvas tabs or scrolling through large PDFs. 
+  
+Efficiency: Jenna thinks it is more efficient to write out long essays and paragraphs on her laptop. Thus, she prefers the web version over the app version. 
+  
+Course Management: Jenna finds that the desktop version streamlines navigation through courses, modules, and assignments. This helps Jenna maintain a well-organized and efficient approach to her studies. 
+  
+While Jenna acknowledges the practicality of the mobile version for quick updates and checking announcements while on the move, she acknowledges its limitations for more involved tasks like in-depth interactions, essay composition, or comprehensive course exploration. Therefore, her go-to choice for substantial tasks on Canvas remains the desktop version. 
+ 
+ 
+#### Interviewed, Dhyey Patel is a fourth-year computer science major, who uses Canvas: 
+Dhyey uses different features on Canvas depending on his needs and preferences. Some of the features he uses the most are: 
+ 
+Dashboard: He uses the dashboard to view all of his courses, assignments, announcements, and calendar events.  
+Courses: He accesses all his enrolled courses and their contents, such as modules, quizzes, discussions, grades, and files from here. He also views his course syllabus and outcomes here.  
+Calendar: Dhyey uses this tab to see all upcoming events and deadlines for his courses and personal tasks. He also adds new reminders for events or edits an existing one. 
+Inbox: He uses this to communicate with his instructors and peers. 
+Account: He uses this to manage his personal settings and preferences, such as profile, notifications etc. 
+ 
+He uses Canvas for various purposes, such as checking his grades, submitting assignments, participating in discussions, reviewing course materials, and collaborating with others. 
+ 
+Dhyey prefers the desktop version of Canvas over the mobile version because he finds it more convenient and comfortable to use a larger screen and a keyboard. He also likes the desktop version because it has more features and functionalities than the mobile version. But he sometimes uses the mobile version when he is on the go or needs to access something quickly from his phone. 
 </details>
 
 <details> 
   <summary><b>My Learnings and Report</b></summary>
-
-**From these interviews, my learnings from them are:**
-
-**i)	Ergonomics and Health Considerations:** Users, in both professional and personal settings, are concerned about maintaining good posture and avoiding discomfort caused by prolonged sitting. The Smart Table should have the ability to automatically adjust its height to promote better posture and reduce strain on the back and neck. Reminders for posture and breaks are desired to encourage healthy habits.
-
-**ii)	Customization and Flexibility:** Users have different work routines and preferences, so customization is essential. The Smart Table should allow users to set different height presets for various tasks. Integration with a user's calendar to adjust the table's settings based on scheduled events is desirable.
-
-**iii)	Workspace Organization:** Many users expressed the need for a clutter-free workspace.
-
-**iv)	Productivity Enhancement:** Users want the Smart Table to enhance their productivity. Features like quick shortcuts for specific tasks and integration with relevant software applications are important for professionals and students.
-
-**v)	Privacy and Security:** If the table is going to be patronizable, it should have strong authentication features for every user profile.
+  
+#### What is their method to solve their problems and questions during the assignment completion window?  
+A lot of students check the To-do or Assignments pages to keep track of deadlines. A lot of students use a personal calendar to assist with this. Some students use Canvas’s calendar and reminder system, but not all students were aware of the functionalities of this 
+#### We will be observing how they work with other peers. How do they use the different features on Canvas and what buttons or pages do they use the most?  
+Students spend a lot of time on the courses page, looking at all sorts of course related information there. Different majors use different connectivity features like discussion boards in different amounts. Lots of students like to reach out to each other for group work. 
+#### What is their motivation to open canvas and why would they prefer the desktop version over the mobile version or vice versa? 
+Some students check canvas regularly for announcements, assignment updates, or sanity checks. However, while some of this can be made easier on the go with the mobile app, students love the desktop version for actual work. 
+#### What incentives will help students be motivated 
+Students seem to be motivated by stress-relief, but not enough for most of them to get their work done in an early manner. Rankings, points, and medals do motivate gamers, but non-gamers can be motivated with deadline extension or extra credit 
+#### Different types of assignments the user would encounter on Canvas 
+Whether it is essays, exams, discussions, labs, or projects, all sorts of assignments are submitted through canvas. Different majors make different use of this. 
+#### Canvas and students can benefit from a more intrinsically motivating teaching platform 
+This definitely seems to be true. A lots of students mentioned procrastination or somewhat struggling with time management. Different forms of motivation could help with this problem. 
+#### How students plan out their assignments and what strategies they use to stay on track – this would help us to figure out a way to improve our UI 
+A lot of students check the To-do or Assignments pages to keep track of deadlines. A lot of students use a personal calendar to assist with this. Some students use Canvas’s calendar and reminder system, but not all students were aware of the functionalities of this 
 
 </details>
 
