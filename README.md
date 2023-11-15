@@ -609,8 +609,16 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
 
   The unique Badges system for each course, Reward ACan points, Redeeming points for submitting assignments, a user friendly approachable color Pallete makes it a gamified concept. The game is collect as many points as possible to get Benefits. 
 
+  We have the ability to save three user profiles (Nehang, Nachiket, Sam) and store the password on GOOGLE Passwords.
+
 
   For Simulation, we have a TO THE FUTURE button to see the how the students performance runs over the semester. We have a Progress Bar for the Calendar to show the progress as well. We have various pages that change according to "THE FUTURE" to simulate the progress of the student.
+
+  <img width="433" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/1337d389-b53c-496d-b29e-7da0d9a80b3c">
+  
+
+  <img width="978" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/1cf24740-57d5-47a3-86ac-694953e4fbd4">
+
 
 <img width="455" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/59c36d7f-5a37-46b2-99e0-9ad1d0fa95fa">
 
@@ -630,6 +638,7 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
   <img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/94b2ce8d-6502-4bf8-aec9-831b41bf75c9">
 
 <img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/1e8c3c78-21d0-44e8-90b2-a1d685ef5f31">
+
 
 
   </details>
