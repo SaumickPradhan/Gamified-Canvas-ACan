@@ -259,69 +259,123 @@ We assume that a Smart Desk is equipped with sensors and features that allow it 
 
 <details>
 <summary><b>Sketching Design Alternatives</b></summary>
+<br>
+The following are the design challenges we worked on initially:
 
-**Design Challenges:**
+1. Balancing Motivation Styles:
+      - Design a system that caters to both competitive and collaborative learners. How can you
+motivate students who thrive on competition while also supporting those who prefer a
+cooperative approach?
 
-**1)	How to make the user comfortable at the table and have adaptable posture?**
+2. Ensuring Accessibility:
+      - How can you make the gamified elements accessible to all students, including those with
+disabilities? Ensure that the gamification doesn't exclude any users.
 
-[My Approach: Adjust the table height and posture of the table according to the preference of each user.]
+3. Preventing Cheating:
+      - How can you prevent students from gaming the system by exploiting the gamified elements
+to earn unearned rewards or points?
 
-**2)	How to make the user be connected to their smart devices (like phone, watch, earbuds etc.) to the table to collect data and charge them?**
+4. Data Privacy and Security:
+      - How do you protect sensitive student data when implementing gamification? Ensure that
+data privacy and security are maintained.
 
-[My Approach: Add smart devices connectivity on the table to sync information and charge on the table, maybe use the OS on these devices to sync them]
+5. Maintaining Engagement Over Time:
+      - How can you design gamification elements that remain engaging throughout an entire
+course or semester, rather than losing their appeal after a short period?
 
-**3)	How to reduce user’s distractions while working at the table in order to be more productive?**
+6. Feedback Frequency:
+      - Determine the optimal frequency of feedback to keep students engaged without
+overwhelming them with constant notifications and rewards.
 
-[My Approach: Implement a suite of productivity Apps like Timer, calendar, pomodoro, standup, etc. in the UI, maybe sync from phone]
+7. Cross-Course Integration:
+      - How can you ensure that gamification elements work seamlessly across various courses and
+subjects, providing a consistent experience for students?
+
+8. Alignment with Learning Objectives:
+      - Ensure that the gamified elements align with the learning objectives of each course. How do
+you strike a balance between fun and educational value?
+
+9. Encouraging Self-Regulation:
+      - Design challenges that encourage students to become more self-regulated in their learning.
+How can you motivate them to set and manage their goals effectively?
+
+10. Testing and Feedback Mechanism:
+      - How will you gather feedback from students on the effectiveness of the gamification
+elements? Develop a system to collect and act on this feedback.
+
 
 </details>
 
+<br>
 
 <details>
 <summary><b>10-PLUS-10 for Each Design Chanllenge</b></summary>
   
-<details><summary><b>1)	How to make the user comfortable at the table and have adaptable posture?</b></summary>
+<details><summary><b>
+ <br>
+1. Balancing Motivation Styles:
+Design a system that caters to both competitive and collaborative learners. How can you
+motivate students who thrive on competition while also supporting those who prefer a
+cooperative approach
+</b></summary>
 
-<img width="477" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/6f86d70a-1668-4c3d-8b85-aed45c7e1242">
+<img width="553" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/6db6e96c-d152-4943-9951-42848fbd8d84">
 
-<img width="553" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/254d697a-309d-407d-9a6a-2d43d131e87d">
+<img width="553" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/30233907-a0a7-4554-8992-f661f429668c">
 
-<img width="553" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/6734a385-327c-45f1-9bba-ffc44b412163">
+<img width="519" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/f85bc74c-027d-4f12-b47a-ed97bde295bd">
 
-<img width="550" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/0c1eb7a1-41d2-4356-a0db-6041966675c4">
+<img width="522" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/a52b292d-3a19-46ea-8ddb-046a51b96d4e">
 
-<img width="554" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/968e41be-c6db-486b-aad7-b66454289624">
+<img width="576" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/60d22d08-90b9-4d7a-bef7-2e5fa5a94219">
+
+<img width="524" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/7625a35a-0b21-4354-b017-b2670c9d78ec">
 
 </details>
 
 
 <details>
-<summary><b>2)	How to make the user be connected to their smart devices (like phone, watch, earbuds etc.) to the table to collect data and charge them?</b></summary>
+<summary><b>
+ <br>
+ 2. Preventing Cheating:
+How can you prevent students from gaming the system by exploiting the gamified elements
+to earn unearned rewards or points?
+</b></summary>
   
-<img width="467" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/0de03ad4-ddb0-4b43-80e9-1c3da925750d">
+<img width="467" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/3dddf896-4ab4-415a-b4e6-010f52ca2deb">
 
-<img width="568" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/b626a9e1-5284-4cb2-b27f-77a93ae2e187">
+<img width="523" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/3c11b6e0-359a-41e0-8e4b-e9e9b76dbf7f">
 
-<img width="542" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/a77137e9-200d-460a-8ee7-3689a62987fe">
+<img width="444" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/b5c084f3-0487-48dd-9a4c-d0154750937e">
 
-<img width="589" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/70f83955-70a0-475f-8219-836034389070">
+<img width="472" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/d39a00fe-e495-4f27-a3db-52424bc8ed05">
 
-<img width="502" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/ce7952ab-e3a7-463f-89b7-c1ee5afdf568">
+<img width="514" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/88f77f9d-6f38-42a6-91e2-cbd2cbd7986c">
+
+<img width="540" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/67722ab9-d1f0-46c5-9f8d-000011a7790c">
+
+<img width="544" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/888a434a-1966-4353-b5f8-624f6e408818">
+
+<img width="518" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/5b1fefb4-c559-4eda-a0a3-aa78e1ae6f25">
 
 </details>
 
 <details>
-<summary><b> 3) How to reduce user’s distractions while working at the table in order to be more productive?</b></summary>
-  
-<img width="453" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/a6385816-e935-41b1-b23e-fa7de841b7c6">
+<summary><b> 
+ <br>
+ 3. Encouraging Self-Regulation:
+Design challenges that encourage students to become more self-regulated in their learning.
+How can you motivate them to set and manage their goals effectively?
+</b></summary>
 
-<img width="549" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/836e3a07-3e2e-48e6-947c-724ef8032cd7">
+  <img width="394" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/da28239a-cb8a-490c-a9b0-e091ee8398cb">
+  <img width="432" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/ab21fd7f-ee67-472c-8d6c-cf3d02797f02">
+  <img width="411" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/dd2ab53a-52b3-4aed-89b8-16d8cb3ac739">
+  <img width="487" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/34393cf6-582a-4d0e-9f57-422225558720">
+  <img width="505" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/4f8cd174-0b1a-49c2-b3cf-9ca452c6d37b">
+  <img width="515" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/e28ee0eb-0b5a-4924-9cd3-5eef568dd7dc">
+  <img width="518" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/262049c0-1229-4a35-a724-528ca4ff41d0">
 
-<img width="532" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/cc3ff60e-be1c-4df0-9d08-8ebebaf336cb">
-
-<img width="555" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/d22c13ec-ac1a-4a35-8ac0-483d588582d4">
-
-<img width="551" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/4b04d2fb-d975-473f-ab7f-990e31361ec9">
 </details>
 
 </details>
