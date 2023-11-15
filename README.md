@@ -40,7 +40,7 @@ A Javascript React application for a Gamified Interface of Canvas LMS. The idea 
  </details>
 
 **Video Presentation**
-https://youtu.be/8Fe_6UhcPd0
+[https://youtu.be/8Fe_6UhcPd0](https://youtu.be/sWw2Ltrj8zI)
 
 **CHECK IT OUT**
 [https://apple-i-table-saumick-pradhan.vercel.app/](https://apple-i-table-saumick-pradhan.vercel.app/)
