@@ -212,45 +212,31 @@ A lot of students check the To-do or Assignments pages to keep track of deadline
 We assume that a Smart Desk is equipped with sensors and features that allow it to adjust its height, is connected to power, and have integrated connectivity with other smart devices. Additionally, we may want to assume that the table is sturdy and there is enough room for it. We also have all the components for a display for the UI and the moving parts (if any). It is also connected to the Internet. We operate in an ideal scenario.
 
 <details>
-<summary><b>c.	Design Requirements for the Smart Desk User Interface: “User wants to have….</b></summary>
+<summary><b>c.	Design Requirements for the User Interface: “User wants to have….</b></summary>
 
-•	Easy Automatic height adjustment, posture preferences with Quick motions.
-
-•	Interactive touch screen.
-
-•	Good cable management.
-
-•	User profiles.
-
-•	Easy Smart devices connectivity.
-
-•	Charging dock management for devices.
-
-•	Notifications for messages, emails.
-
-•	Smart phone pairing with a familiar interface like Apple Car play and Android Auto.
-
-•	Charging capability
-
-•	On device music connectivity
-
-•	Daily utility notifications like calendar, weather, time, date for accessibility
-
-•	Productivity tips: Calendar, Timer, to do list, Pomodoro, Do not disturb mode
-
-•	Large desk with enough space for their screen(s) as well as writing and keyboard space
-
-•	Light and other electronic connection
-
-•	Authentication for profile and security/ privacy
+ •	Integrating Khan Academy’s pointing systems based on how well you do your work/ assignments.
+ 
+ •	Redeeming points for extensions
+ 
+ •	Penalizing for missed assignments etc.
+ 
+ •	Game like UI that lets users practice similar questions for points
+ 
+ •	Grade tracker to show progress
+ 
+ •	Week modules will be levels
+ 
+ •	Help section can be for asking help from the TA or professor
+ 
+ •	Consider the mobile version of canvas as well
 
 <b>Future Work:</b>
 
-•	Create an integration with an external monitor
+•	Create an integration with submission window
 
-•	Have external connections to manage the lighting near the table
+•	Have external connections to other Apps
 
-•	Voice assistant integration
+•	Voice assistant integration with sound
 
 •	User data analytics and feedback
 
