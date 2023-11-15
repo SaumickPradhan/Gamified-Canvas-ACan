@@ -45,6 +45,8 @@ A Javascript React application for a Gamified Interface of Canvas LMS. The idea 
 **CHECK IT OUT**
 [https://apple-i-table-saumick-pradhan.vercel.app/](https://apple-i-table-saumick-pradhan.vercel.app/)
 
+**Repo for SIMULATION and Three Mock Users**
+https://github.com/SaumickPradhan/Gamified-Canvas-Simulation/blob/main/README.md
 
 **Gathering design requirements**
 
