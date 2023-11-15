@@ -452,38 +452,24 @@ Dhyey prefers the desktop version of Canvas over the mobile version because he f
 
 
 
-**BASIC UI**
+**C Goals**
 
 <details>
-<summary><b>a)	Preliminary Controls and Usage </b></summary>
+<summary><b>a)	For the C goals, the student has to be able to complete the following tasks </b></summary>
 
 <details>
-<summary><b>Controls: “Ability to…”</b></summary>
+<summary><b>View the syllabus </b></summary>
   
-•	Set Timer, standup time
+Her we're focusing on only one class, which is the user-interface class:
 
-•	Adjust the table height 
+<img width="1436" alt="Screen Shot 2023-11-14 at 7 55 55 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/27eb66f6-9bb6-4f56-a4e6-54dae7ae5e23">
 
-•	Adjust notification preference
 
-•	Select user profile
-
-•	Write and see notes/ to dos
-
-•	Power on/ off the display
-
-•	Charge the devices and connect data from them
-
-•	Select and play music
-
-•	Customize the calendar
-
-•	Authenticate the user profile with mobile device
 </details>
 
 
 <details>
-<summary><b>Display: “Display the…”</b></summary>
+<summary><b> View all announcements </b></summary>
   
 •	Time, weather, day, user name
 
