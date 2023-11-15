@@ -633,12 +633,12 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
 
  <details>
     <summary><b>Sketches</b></summary>
-    <img width="562" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/5d5085a2-4933-4e67-b872-dbfed7627044">
 
-  <img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/94b2ce8d-6502-4bf8-aec9-831b41bf75c9">
+<img width="449" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/cdd3c6c1-bd22-4202-ba10-c0774af79d27">
 
-<img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/1e8c3c78-21d0-44e8-90b2-a1d685ef5f31">
+<img width="340" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/4074ddeb-7c26-4aa5-99b1-b3af474a829c">
 
+<img width="384" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/88007868-6a96-4e86-9ea6-2667ee2edaf4">
 
 
   </details>
