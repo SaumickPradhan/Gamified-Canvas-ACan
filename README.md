@@ -240,7 +240,7 @@ A lot of students check the To-do or Assignments pages to keep track of deadline
 
 **b.	Assumptions**
 
-We assume that a Smart Desk is equipped with sensors and features that allow it to adjust its height, is connected to power, and have integrated connectivity with other smart devices. Additionally, we may want to assume that the table is sturdy and there is enough room for it. We also have all the components for a display for the UI and the moving parts (if any). It is also connected to the Internet. We operate in an ideal scenario.
+We assume that an equivalent interface for the Faculty exists. We assume that the faculty has set the ACan points grading scheme. The THREE MOCK USERS are already pre loaded in the LOG IN Page. This is done using mock data.
 
 <details>
 <summary><b>c.	Design Requirements for the User Interface: “User wants to have….</b></summary>
