@@ -603,8 +603,26 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
 
 **A GOALS**
 <details>
-  <summary><b>Display information for different mock users or situations (I have also included Connecting to a mock secondary device element to this with the personal mobile device of each user)</b></summary>
-  The table can be personalized and customized by the users. Initially the table will be only for guests. If the user wants to access information from their phone or connect their table configuration settings, they will place their smart mobile device on the magsafe charger. This will charge the phone and also connect it to the table. This acts as authentication for the data transfer. Now, the user will Double click their name from the users button for authentication. There entire data and table settings preferences are now synced. This Handshake between the mobile device and the table is shown in the mock UI Application. The users notification, calendar, height, standup, notes, music preference will be synced to the table. The user will see their name as well.
+  <summary><b>Developed Three Gamified Courses, Three mock students and Simulation with Excellent Visual Design</b></summary>
+  Created Three Courses User Interface, Senior Design, Computer Graphics for each Student. Each course has a unique Syllabus, grading scale, Progress bar, ACan pointing scheme and Badges system.
+
+
+  The unique Badges system for each course, Reward ACan points, Redeeming points for submitting assignments, a user friendly approachable color Pallete makes it a gamified concept. The game is collect as many points as possible to get Benefits. 
+
+
+  For Simulation, we have a TO THE FUTURE button to see the how the students performance runs over the semester. We have a Progress Bar for the Calendar to show the progress as well. We have various pages that change according to "THE FUTURE" to simulate the progress of the student.
+
+<img width="455" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/59c36d7f-5a37-46b2-99e0-9ad1d0fa95fa">
+
+
+ <img width="1375" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/750d4b3e-89f6-4be1-aa57-39995fde36f8">
+
+
+<img width="1311" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/40016d99-146b-4501-b6ae-53fd508477e7">
+
+
+<img width="1145" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/81250874-ac59-426d-a3fb-3fde69b8275f">
+
  <details>
     <summary><b>Sketches</b></summary>
     <img width="562" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/5d5085a2-4933-4e67-b872-dbfed7627044">
@@ -617,7 +635,7 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
   </details>
   <details>
     <summary><b>Feedback</b></summary>
-Feedback was to display a message that the data has been synced and the user profile has been authenticated and selected, on the user’s phone.
+Feedback was to have the TO THE FUTURE button on the top
   </details>
   
 </details>
