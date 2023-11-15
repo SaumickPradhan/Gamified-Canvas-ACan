@@ -9,7 +9,35 @@
 
 **Description**
 <br>
-A Javascript React application for a Gamified Interface of Canvas LMS. The idea is to motivate the students by helping them engage in classes with achievement Medals. Developing a Rewards Center for redeeming and earning ACan points
+A Javascript React application for a Gamified Interface of Canvas LMS. The idea is to motivate the students by helping them engage in classes with achievement Badges. Developing a Rewards Center for redeeming and earning ACan points to incentivize the students. Students can use ACan points for get assignment extensions, bonus point and Achievement Badges depending upon their consistancy and tinmeliness throughout the semester. 
+
+<details>
+<summary><b> Some Features of Alterna Canvas are: </b></summary>
+
+
+ •	 Students will be awarded the ACan points based on their past performance. 
+ 
+ •	 Their is a Reward Center showing the Credit and Debit in Points.
+ 
+ •	 The courses are listed at Levels (instead of Weeks). 
+ 
+ •	 A Task Triumph Zone (aka To Do List) helps students be on top of their course work. 
+ 
+ •	 Calendar helps visualize their tasks and tick them off to complete them and earn ACan points. 
+ 
+ •	 Attending Zoom classes also gives them points. 
+ 
+ •	 The course work is organized in terms of Weekly (Level Based) modules. 
+ 
+ •	 Students can access their Assignemnts and quizes by redeeming points too. 
+ 
+ •	 There is an Announcement Page for seeing the Latest Announcemnts Organized by Classes. 
+ 
+ •	 The grade Book shows the weighted Grade and also refelcts the Acan Points. 
+ 
+ •	 The Progress page helps students visualize their progress with ACan Points and Badges.
+
+ </details>
 
 **Video Presentation**
 https://youtu.be/8Fe_6UhcPd0
