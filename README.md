@@ -2,7 +2,10 @@
 
 
 **An Interactive GAMIFIED version of the UI/UX for Canvas LMS by Instructure**
-<img width="942" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/a56473df-12b9-42a0-ac81-1063c9e85204">
+
+
+<img width="1431" alt="Screen Shot 2023-11-14 at 6 36 52 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/24e54b9e-ef07-4b77-a316-89fe5f36c306">
+
 
 **Description**
 <br>
