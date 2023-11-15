@@ -147,7 +147,7 @@ Accessing assignments on Canvas is convenient. I typically log into my Canvas ac
 Motivation can be a challenge, especially for complex programming assignments. To stay motivated, I often set personal goals and milestones for each assignment. Breaking the task into smaller, manageable parts makes it less daunting. I find that setting clear goals and focusing on the practical applications of what I'm learning can be highly motivating. Collaborating with my friends on group projects also adds an element of healthy competition and motivation. 
  
 #### How do you ask for help when you are stuck?  
-I try to look up the problems online, firstly, on sites like GeeksForGeeks or StackOverflow. If I 	can’t find anything there, I try to ask my friends if they know how to solve the problem. I also 	use the class Discord channel to discuss the problem with my classmates to see if they faced the 	same problem and how they solved it. The last resort is to ask the professor or TA about it. 
+I try to look up the problems online, firstly, on sites like GeeksForGeeks or StackOverflow. If I 	can’t find anything there, I try to ask my friends if they know how to solve the problem. I also use the class Discord channel to discuss the problem with my classmates to see if they faced the same problem and how they solved it. The last resort is to ask the professor or TA about it. 
  
 #### How do you feel about the assignment submission windows in Canvas?  
 I think the assignment submission window on Canvas is good. It mentions everything I need to know about the assignment such as the instructions, due date details, the number of points it’s worth, etc. So, I would say it has sufficient information for me to turn in my assignment on time efficiently. I just wish I could select multiple files in one go! 
@@ -159,7 +159,7 @@ Submitting exams on Canvas is straightforward, but it depends on the exam format
 While Canvas is effective for assignment submission, it could be enhanced by providing a built-in code editor that supports multiple programming languages. Additionally, a plagiarism checker integrated into the submission process would be beneficial for maintaining academic integrity. Canvas could also improve the assignment submission process by allowing students to submit multiple code files more easily, as I mentioned earlier. This is especially important in computer science, where assignments often involve multiple code components. 
  
 #### To what extent do you feel you are able to ask for help through Canvas – Be it your peers or your instructors?  
-I think the Discussion Board on Canvas is helpful to some extent for asking questions, but people don’t use it too often, so I usually depend on the class communication channels such as Discord or GroupMe. Or I just email the professor directly, because often they are not aware of the conversation on Discussion Board, or they have disabled it for the course! The discussions on Discord, GroupMe, and (sometimes) Canvas are particularly useful for sharing code snippets and troubleshooting. 
+I think the Discussion Board on Canvas is helpful to some extent for asking questions, but people don’t use it too often, so I usually depend on the class communication channels such as Discord or GroupMe. Or I just email the professor directly, because often they are not aware of the conversation on the Discussion Board, or they have disabled it for the course! The discussions on Discord, GroupMe, and (sometimes) Canvas are particularly useful for sharing code snippets and troubleshooting. 
  
 #### How do you feel about being incentivized to play games on Canvas for extra credit?  
 Incentivizing games for extra credit is an interesting concept, especially if the games are designed to reinforce course content. It can make learning more engaging. However, the games should be thoughtfully integrated into the curriculum and align with the learning objectives. Playing games for extra credit could also be a source of motivation for people to study more if it involves using concepts learned in class to play it. 
@@ -174,11 +174,11 @@ Rewards and penalties in games can be motivating, especially when they are desig
 Interview-5: Brother, computer science graduate 
   
 #### How do you access your assignments and plan to complete them in time? 
-Accesses assignments on Canvas through personal laptop, never mobile version. Has difficulty planning for assignments. Does not like Canvas’s calendar and To-Do system. Uses physical whiteboards as well as personal calendar app to keep up with work. Likes this method due to reminders.  
+Accesses assignments on Canvas through a personal laptop, never mobile version. Has difficulty planning for assignments. Does not like Canvas’s calendar and To-Do system. Uses physical whiteboards as well as a personal calendar app to keep up with work. Likes this method due to reminders.  
 #### How do you motivate yourself to complete your assignments? 
 Says he is definitely a procrastinator. Stress is a big motivator. Usually only works ahead if it seems like he will be too busy. Breaks after bits of work help to make work easier. 
 #### How do you ask for help when you are stuck? 
-Doesn’t like how canvas offers help. Usually searches randomly across the course page to find TA/office hours. Usually only searches online for answers or talks to computer scientist father. 
+Doesn’t like how Canvas offers help. Usually searches randomly across the course page to find TA/office hours. Usually only searches online for answers or talks to a computer scientist's father. 
 #### How do you feel about the assignment submission windows in Canvas? 
 Hard deadlines can be stressful when pushing work to the last minute. But it is understandable that some sort of deadline should be in place. Doesn’t feel Canvas does good enough job reminding you of your assignments. 
 #### Do you like how you are able to submit your exams? 
@@ -220,7 +220,7 @@ In the games they do play, rewards and penalties are motivating. Gets sad when S
 </details>
 
 <details> 
-  <summary><b>My Learnings and Report</b></summary>
+  <summary><b>Learnings and Report</b></summary>
   
 #### What is their method to solve their problems and questions during the assignment completion window?  
 A lot of students check the To-do or Assignments pages to keep track of deadlines. A lot of students use a personal calendar to assist with this. Some students use Canvas’s calendar and reminder system, but not all students were aware of the functionalities of this 
@@ -328,7 +328,7 @@ elements? Develop a system to collect and act on this feedback.
 <br>
 
 <details>
-<summary><b>10-PLUS-10 for Each Design Chanllenge</b></summary>
+<summary><b>10-PLUS-10 for Each Design Challenge</b></summary>
   
 <details><summary><b>
  <br>
@@ -405,9 +405,66 @@ How can you motivate them to set and manage their goals effectively?
   
 <summary><b>Survey</b></summary>
 
-•	Voice assistant integration
+Based on the [survey results](https://docs.google.com/forms/d/1ah7xhf0GLVIWrIkYG_3vp5ohAKhmPAdxknChNqKiidE/edit#responses), the following inferences could be drawn about the general opinions of students regarding Canvas:
 
-•	User data analytics and feedback
+1. Frequency of Interaction with Canvas:
+   - Response: More than once a day.
+   - Analysis: The majority of users interact with Canvas frequently, indicating that it plays a significant role in their daily academic routine.
+
+2. Purpose of Using Canvas:
+   - Response: Assignments.
+   - Analysis: Users primarily use Canvas for managing assignments.
+
+3. Customization of Canvas:
+   - Response: No customization.
+   - Analysis: Most users have not customized Canvas, suggesting that the default settings might meet their needs.
+
+4. Importance of Canvas in Daily Academic Routine:
+   - Response: Very Important.
+   - Analysis: Canvas is considered very important in the daily academic routine of the users.
+
+5. Overall Satisfaction with Canvas:
+   - Response: 9 (on a scale of 1 to 10).
+   - Analysis: Users generally have a high level of satisfaction with Canvas.
+
+6. Preferred Interface for Canvas:
+   - Response: Web-based/Online.
+   - Analysis: The majority prefer the web-based interface over the mobile interface.
+
+7. Satisfaction with Canvas User Interface:
+   - Analysis: Users find the Canvas interface functional and easy to use, but there are neutral responses to its visual appeal.
+
+8. Motivation and Gamification:
+   - Response: Users feel motivated when tasks are gamified, and they support the idea of redeeming points for special features.
+
+9. Incentives for Using Canvas:
+   - Response: Points, quest badges, redeem points for extensions.
+   - Analysis: Users are interested in incentives like points and badges for using Canvas.
+
+10. Customization Preferences:
+    - Analysis: Users express interest in more customization features, including avatar customization and rewards for timely assignment submission.
+
+11. Progress Tracking and Organization:
+    - Analysis: Users generally find Canvas effective for tracking progress, staying organized, and managing assignments and due dates.
+
+12. Canvas Features Liked and Disliked:
+    - Likes: Not specified.
+    - Dislikes: Not specified.
+    - Analysis: More details are needed to identify specific features liked or disliked.
+
+13. Difficult Tasks on Canvas:
+    - Response: None specified.
+    - Analysis: Users did not mention specific tasks that are difficult to complete on Canvas.
+
+14. Desired Changes or Additions to Canvas:
+    - Response: None specified.
+    - Analysis: More information is needed to understand users' suggestions for improvements.
+
+15. Additional Comments:
+    - Response: The font, placement of classes, none.
+    - Analysis: Users have provided some feedback on specific aspects of Canvas, including font and class placement. Further details could provide insights into areas for improvement.
+
+Overall, the analysis suggests that users generally have a positive experience with Canvas, find it useful for managing assignments, and are interested in gamification and customization features. 
   
 </details>
 
@@ -581,19 +638,111 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
 
 **B GOALS**
 <details>
-  <summary><b>1. Enable the user to input a complex set of selections</b></summary>
-  Complex actions are used in all the 4 productivity applications. In Timer App you user can use the pomodoro timer. In the Standup, user can adjust the stand-up timer. In the Music App, user can select their playlist, songs and add song to que and play them. In the notes app, user can complete the To do list, choose their desired note app and Add new note. All the apps have a completion green circle around them to show progress. The height adjustment bar can also have complex selections. The Power button turns the display on and off. The devices connected and charging are shown as well.
+<summary><b>a)	For the B goals, the student has to be able to complete the following tasks </b></summary>
   <details>
-    <summary><b>Sketches</b></summary>
-    <img width="569" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/bf567712-18bf-4f7a-a4d2-c3124366bd90">
-    
-<img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/b43dfa2f-298d-4a20-b35b-a189fee8882d">
-    
-  <img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/bba1fd64-0b67-4c12-a46b-3bec17883b08">
+   <summary><b>Submit assignments - Submission needs to have text entry and document upload options.</b></summary>
+   
+   There are quite a few things going on with this interface – The student can select the assignment they wish to submit, and choose to select options for Bonus Points or Due Date Extensions, based on the policies set by their instructor. 
+   
+   <b>They can then use the File Submission window to select and submit a file from their device or use the Text Entry submission for turning in their work.</b> 
+
+   The submission button (a.k.a. the "Submit Assignment" button), when clicked, automatically "submits" the assignment and reloads the page without the student having to click anything. 
+   
+   <img width="990" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/fa772c39-d445-4d57-81c5-793b22d3a78d">
   </details>
+
   <details>
-    <summary><b>Feedback</b></summary>
-    Feedback was to change the color of the power button to be red when selected. The dialogue boxes for the apps should be symmetric.
+   <summary><b>Access course materials - view or download presentations</b></summary>
+   
+   The student is able to view all the course material through the course modules, the components of which are color-coded as follows:
+
+   i. The _Blue-colored_ components of the module are the course material that the student can read, such as the Syllabus, in-class activities, or tutorials.
+
+   ii. The _Green-colored_ components of the module are the presentations that the instructor has uploaded.
+
+   iii. The _Red-colored_ components of the module are the assignments that the instructor has assigned to the student.
+
+   iv. The _Pink-colored_ component of the module is that of the project information.
+
+   <b>The student can preview the documents using the  <img width="15" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/7cc9abdb-3a8e-4878-a624-448f6e0d6de0">  button and download the documents using the  <img width="15" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/50d32220-eac6-479e-a7dd-b37037c53854">  button.</b>
+
+   
+  <img width="1178" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/bf109bc2-85a4-4d7c-96b1-1135cfd058ff">
+
+  </details>
+
+
+  <details>
+   <summary><b>View their grades on assignments, and their grade in the course so far, according to the instructor's grade weighting scheme.</b></summary>
+   
+   The student is able to view their grades on the different assignments, exams, and quizzes in the GradeBook (a.k.a. the "Grades" section) according to the instructor's weighting scheme (used from the mock data given in the zip file).
+
+  <img width="1413" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/d5f46b32-df99-46a7-903a-82b713590dac">
+
+  </details>
+
+  <details>
+   <summary><b>Plan their work - using a calendar or to-do list.</b></summary>
+   
+   The student is able to use the to-do list feature (a.k.a. the "Task Triumphs Zone") to plan out their work, according to their needs.
+
+   They can use the "Add" button to add new tasks to the task list and use the "Edit" button to edit any to-do on their list. They can either click on the to-do list item to mark it as completed (highlighted in blue with a strikethrough font), or use the "Remove" button to get rid of the task from the list altogether.
+
+  <img width="692" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/0919bf98-4acb-444a-87b0-dfafedfe58a4">
+
+  </details>
+
+
+  <details>
+   <summary><b>Zoom connection option.</b></summary>
+   
+   The student can also use the Zoom Lectures feature to attend classes online, for which they are awarded a certain number of ACan Points by their instructor, as shown below. This feature shows them which classes they have attended and which ones they have not yet attended. We envision these to either be live lectures or video recordings posted by their instructor for which they can receive credit for either of them.
+
+  <img width="1372" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/80353c4c-5e58-4cfa-bda8-b8df065a30b9">
+
+  </details>
+</details>
+
+
+<details>
+   <summary><b>b) As students do tasks in this class, the UI should update to reflect their progress in the class, using your gamification approach.  You should be able to perform a sequence of tasks for the student and see changes in the UI.</b></summary>
+   
+   As the student does their tasks in the class, all of it gets logged in the Rewards Center as and when they receive (or lose) ACan Points for their work. 
+
+   For example, if the student submits their assignment 5 days before the deadline, they get awarded 20 ACan Points, whereas they get 10 ACan Points deducted for submitting their quiz late, as shown in the screenshot below:
+   
+  <img width="1375" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/9c11eba5-3cdb-4cf5-9e94-dc6d7710d05b">
+
+  </details>
+  
+  
+  <details>
+    <summary><b>c) Sketches</b></summary>
+    <img width="638" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/066f713d-68aa-4345-9c55-3b027f72a8e8">
+    <img width="657" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/876d5d9c-a7ae-40db-9be3-ea003b33e0e5">
+    <img width="661" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/61c4cd09-8e9f-4b48-bd37-7c06b4770f70">
+    <img width="650" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/d22d652c-637a-4627-892b-26244f770560">
+    <img width="654" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/88e26425-0f61-4766-b3e1-1bb66bf4dfbe">
+    <img width="642" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/335c8abd-e7fd-4186-b446-6660f392c45e">
+    <img width="647" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/3f70d44c-6299-44e3-b4bc-98cb2384986c">
+    <img width="658" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/7c8b6a25-98bc-4e14-8195-ae2e05582409">
+    <img width="632" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/2d594fdc-28d6-494f-8671-dc8ebc906e0b">
+    <img width="636" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/90214774/eb1c1a99-d2f4-439e-95fa-047271cd2b65">
+  </details>
+  
+  <details>
+    <summary><b>d) Feedback</b></summary>
+    We got the following feedback from our interviewees:
+   <br></br>
+
+   > (I) love the design of your login page! It's super clean and simple, and it's easy to use. I especially like the way you've used the UC logo and bearcat image. They add a nice touch of personality. I'm sure your users will love the new login page! It's fresh, modern, and easy to use.
+>
+Here are a few minor suggestions:
+>
+>Add a border around the login form to make it pop.
+>Make the "LOG IN!!" button bigger and more colorful.
+>Maybe add functionality to enable the users to save their login info, so they don't have to remember it every time they want to access your Alterna-Canvas!
+>
   </details>
 
 </details>
