@@ -470,78 +470,64 @@ Her we're focusing on only one class, which is the user-interface class:
 
 <details>
 <summary><b> View all announcements </b></summary>
-  
-•	Time, weather, day, user name
 
-•	Devices connected and charging, the battery percentage
-
-•	User preferred notifications, height
-
-•	Productivity apps
-
-•	Different messaging apps
-
-•	Notes
-
-•	Stand up notifications
-
-•	Pomodoro timer
-
-•	Music playing
+Here we showcase all the assignments under the tab on the top, filtered for each class: 
+<img width="1433" alt="Screen Shot 2023-11-14 at 10 35 40 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/299ff0f3-42a4-490c-8b43-1d95f6bdd6e7">
 
 </details>
 
 
 <details>
-<summary><b>Design choice:</b></summary>
+<summary><b>View a list of presentations and other course materials, organized by modules.</b></summary>
   
-•	Users should be able to authenticate themselves and select the profiles
+<img width="1440" alt="Screen Shot 2023-11-14 at 10 37 36 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/3a739dfb-b652-4997-9298-cd78ab949a06">
 
-•	Select the height of the table
+</details>
+<details>
+ <summary><b>View upcoming assignments </b></summary>
+ <img width="1427" alt="Screen Shot 2023-11-14 at 10 42 37 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/b54f9d02-2725-44f8-9af1-6cf9b0c3bf56">
 
-•	Turn on/ off the display
+</details>
+<details>
+<summary><b>View their progress in the course</b></summary>
+ <img width="1428" alt="Screen Shot 2023-11-14 at 10 44 37 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/be1e3135-2877-43b7-b624-727bd9d30bd2">
 
-•	Clearly see the feedback from selections
-
-•	All the productivity apps will be clustered together
-
-•	The height adjustment slider will be on the right
-
-•	Notification widget on the top
-
-•	Users will be able to interact with the UI like a tablet
-
-•	Making changes to the setting should be easy
-
-•	The connected devices will be on the left as that is where the actual devices are
-
-•	The UI will have a Apple CarPlay theme as the user wants familiarity
-
-•	The smart devices will be connected via the Mag Safe charger
-
-•	Calendars will also be synced to have continuity
-
-•	The height, standup times, music playlist, notes, notification preference and calendar will be unique to every user and will be authenticated.
 </details>
 </details>
 
 <details>
   <summary><b>b)	Prototype sketches</b> </summary>
-  <img width="589" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/e2fa5ba1-31c2-43b9-b474-b2d976c829a5">
+  
+ ![C-level Sketch-01](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/5c8def88-bf62-4d5f-85be-599d2c70d443)
+ 
+![C-level Sketch-02](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/c3dbf31f-5c21-4a56-8ed2-bb652bacfb49)![C-level Sketch-03](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/673b6cc0-3a11-4477-a2bf-5a4de288f330)
+ 
+![C-level Sketch-04](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/1598106e-66a0-4456-90a3-287ab936f55e)
+ 
+![C-level Sketch-05](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/98433269-790d-45c8-9d93-6c0f3d62111e)
+ 
+![C-level Sketch-06](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/a5445f28-2d7c-4c33-9f98-27e64c49b58f)
+ 
+![C-level Sketch-07](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/31c24cbb-d917-454b-9103-4b6aa6ab5278)![C-level Sketch-08](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/c863e796-e2c1-4f33-99ca-6c1de15d003d)
+ 
+![C-level Sketch-09](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/55d324b6-4e7f-4b89-9d8f-e3b7dab91219)
+ 
+![C-level Sketch-10](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/3f68ea71-9d5b-4a97-8b16-c7451d7d132a)![C-level Sketch-11](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/e416ce5c-71b3-4849-9204-09db600b20d2)
+ 
+ ![C-level Sketch-11](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/be051655-7e67-4913-8881-a1b9b4a5793b)
+
+![C-level Sketch-12](https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/3ac7b0e2-555f-42a7-b7f5-29d48a04a117)
+
+
+
+
 </details>
 
 <details>
   <summary><b>c) Feedback</b> </summary>
-Feedback from Resident Advisor manager, CS student friend, work from home uncle: The height reading should be placed lower. Timer App is not useful but pomodoro is. Create a thumb slider. Have height set according to the user profiles.
+Feedback from Jenna, one of the students interviewed for questions and contextual inquiry: The website looks great, especially the UI! I love how you've implemented the assignments and modules page!
 <br>  
   
- **Improvement:**
-
-  <img width="572" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/9b9a60dd-654d-4152-b9f4-a4125377bea8">
-
- **Feedback:** Create a window rather than pop up. Have progress green circles on the Apps. Show weather as well.
-
-  <img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/9b38c490-0955-41c3-83b4-cdf3e9a59222">
 </details>
 
 
@@ -633,12 +619,12 @@ ii.	Boundaries are clearly laid out on the webpage.   <br>
 
  <details>
     <summary><b>Sketches</b></summary>
+    <img width="562" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/5d5085a2-4933-4e67-b872-dbfed7627044">
 
-<img width="449" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/cdd3c6c1-bd22-4202-ba10-c0774af79d27">
+  <img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/94b2ce8d-6502-4bf8-aec9-831b41bf75c9">
 
-<img width="340" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/4074ddeb-7c26-4aa5-99b1-b3af474a829c">
+<img width="468" alt="image" src="https://github.com/SaumickPradhan/Apple-iTable/assets/85262444/1e8c3c78-21d0-44e8-90b2-a1d685ef5f31">
 
-<img width="384" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/88007868-6a96-4e86-9ea6-2667ee2edaf4">
 
 
   </details>
