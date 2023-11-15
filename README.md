@@ -459,8 +459,8 @@ Dhyey prefers the desktop version of Canvas over the mobile version because he f
 
 <details>
 <summary><b>View the syllabus </b></summary>
-  
-Her we're focusing on only one class, which is the user-interface class:
+
+Here we're focusing on only one class, which is the user-interface class:
 
 <img width="1436" alt="Screen Shot 2023-11-14 at 7 55 55 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/27eb66f6-9bb6-4f56-a4e6-54dae7ae5e23">
 
@@ -470,8 +470,9 @@ Her we're focusing on only one class, which is the user-interface class:
 
 <details>
 <summary><b> View all announcements </b></summary>
-
+ 
 Here we showcase all the assignments under the tab on the top, filtered for each class: 
+ 
 <img width="1433" alt="Screen Shot 2023-11-14 at 10 35 40 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/299ff0f3-42a4-490c-8b43-1d95f6bdd6e7">
 
 </details>
@@ -479,17 +480,25 @@ Here we showcase all the assignments under the tab on the top, filtered for each
 
 <details>
 <summary><b>View a list of presentations and other course materials, organized by modules.</b></summary>
-  
+ 
+ Under the modules section, seprated by colors, the user is able to see all their course material and presentation seprated by each module, representing levels to uncourage student progress:
+ 
 <img width="1440" alt="Screen Shot 2023-11-14 at 10 37 36 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/3a739dfb-b652-4997-9298-cd78ab949a06">
 
 </details>
 <details>
  <summary><b>View upcoming assignments </b></summary>
+
+ Here, under the calender section on the top-navbar, the student is able to see their upcoming assignments, in a simple fashion and have a button to complete their assignments and fill up a bar to check their progress
+ 
  <img width="1427" alt="Screen Shot 2023-11-14 at 10 42 37 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/b54f9d02-2725-44f8-9af1-6cf9b0c3bf56">
 
 </details>
 <details>
 <summary><b>View their progress in the course</b></summary>
+
+The GAME here is for students to be consistent and on track with thier assingments, quizzes, and attending classes. The students will be motivated and Rewarded by ACan points and Achievement badges for each course. The students can use the points for Benefits.
+ 
  <img width="1428" alt="Screen Shot 2023-11-14 at 10 44 37 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/be1e3135-2877-43b7-b624-727bd9d30bd2">
 
 </details>
