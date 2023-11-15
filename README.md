@@ -767,6 +767,10 @@ Here are a few minor suggestions:
   <img width="978" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/1cf24740-57d5-47a3-86ac-694953e4fbd4">
 
 
+  <img width="417" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/0b5af5cb-635e-4264-ad26-65874749a090">
+
+
+
 <img width="455" alt="image" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/85262444/59c36d7f-5a37-46b2-99e0-9ad1d0fa95fa">
 
 
