@@ -3,8 +3,8 @@
 
 **An Interactive GAMIFIED version of the UI/UX for Canvas LMS by Instructure**
 
+<img width="1436" alt="Screen Shot 2023-11-14 at 7 21 46 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/2a585a5a-bafb-4990-962d-4d7668da8ea5">
 
-<img width="1431" alt="Screen Shot 2023-11-14 at 6 36 52 PM" src="https://github.com/SaumickPradhan/Gamified-Canvas-ACan/assets/88009707/24e54b9e-ef07-4b77-a316-89fe5f36c306">
 
 
 **Description**
