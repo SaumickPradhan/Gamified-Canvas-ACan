@@ -45,6 +45,8 @@ A Javascript React application for a Gamified Interface of Canvas LMS. The idea 
 **CHECK IT OUT** <br>
 https://gamified-canvas-simulation.vercel.app/
 
+Please note, as discussed, the pages on the navigation bar are not working on Vercel but can be accessed locally. 
+
 **Repo for SIMULATION and Three Mock Users** <br>
 https://github.com/SaumickPradhan/Gamified-Canvas-Simulation/blob/main/README.md
 
